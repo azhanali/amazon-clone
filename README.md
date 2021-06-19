@@ -1,3 +1,5 @@
+# Deployed on firebase hosting
+Click [HERE](https://clone-22236.web.app) to visit the website
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
